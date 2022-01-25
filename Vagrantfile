@@ -1,5 +1,5 @@
 ########################################################################################
-# Data de criação: 22 de Novembro de 2021		                                            #
+# Data de criação: 22 de Novembro de 2021                                              #
 #                                                                                      #
 # Autoria: Márcio Tadeu                                                                #
 # Contato: marcio.ts6@terra.com.br                                                     #
