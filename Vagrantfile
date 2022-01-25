@@ -14,9 +14,9 @@
 #                                                                                      #
 # Repositório de publicação: https://github.com/marcio-tadeu/usefullscripts            #
 #                                                                                      #
-# Uso: Vagrant up              			                                       			           #
-# Parâmetros: n/a                                          			               			       #
-# Legenda parâmetros: n/a                                                   		         #
+# Uso: Vagrant up                                                                      #
+# Parâmetros: n/a                                                                      #
+# Legenda parâmetros: n/a                                                              #
 #                                                                                      #
 # This script was validate executing on linux mint version="20.2"                      #
 #                                                                                      #
