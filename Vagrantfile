@@ -9,7 +9,7 @@
 # Data: 22/12/2021                                                                     #
 #                                                                                      #
 # Descrição: This script is a usefull example for provisioning lab environments with   #
-# virtualbox                                                                  			 	    #
+# virtualbox                                                                           #
 # Projeto: Environment                                                                 #
 #                                                                                      #
 # Repositório de publicação: https://github.com/marcio-tadeu/usefullscripts            #
