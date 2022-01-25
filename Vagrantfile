@@ -8,7 +8,7 @@
 # Version: 1.1                                                                         #
 # Data: 22/12/2021                                                                     #
 #                                                                                      #
-# Descrição: This script is a usefull example for provisioning lab environments with	  #
+# Descrição: This script is a usefull example for provisioning lab environments with   #
 # virtualbox                                                                  			 	    #
 # Projeto: Environment                                                                 #
 #                                                                                      #
