@@ -1,6 +1,6 @@
 # usefullscripts
 
-# The conde main.tf script use hcl defaults language for implement infrastructure as a code with:
+# The conde environment.tf script use hcl defaults language for implement infrastructure as a code with:
 1- Azure Storage account
 2- AKS (Azure Kubernetes Service)
 3- 1 Azure Virtual Machine
