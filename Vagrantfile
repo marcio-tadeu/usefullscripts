@@ -1,22 +1,22 @@
 ########################################################################################
 # Data de criação: 22 de Novembro de 2021                                              #
 #                                                                                      #
-# Autoria: Márcio Tadeu                                                                #
-# Contato: marcio.ts6@terra.com.br                                                     #
+# Author: Márcio Tadeu                                                                 #
+# Contact: marcio.ts6@terra.com.br                                                     #
 #                                                                                      #
-# Nome do script: Vagrantfile                                                          #
+# Script name: Vagrantfile                                                             #
 # Version: 1.1                                                                         #
-# Data: 22/12/2021                                                                     #
+# Date: 22/12/2021                                                                     #
 #                                                                                      #
-# Descrição: This script is a usefull example for provisioning lab environments with   #
+# Description: This script is a usefull example for provisioning lab environments with #
 # virtualbox                                                                           #
-# Projeto: Environment                                                                 #
+# Project: Environment                                                                 #
 #                                                                                      #
-# Repositório de publicação: https://github.com/marcio-tadeu/usefullscripts            #
+# Publicação repository: https://github.com/marcio-tadeu/usefullscripts                #
 #                                                                                      #
-# Uso: Vagrant up                                                                      #
-# Parâmetros: n/a                                                                      #
-# Legenda parâmetros: n/a                                                              #
+# Use: Vagrant up                                                                      #
+# Parâmeters: n/a                                                                      #
+# Parâmeters legend: n/a                                                               #
 #                                                                                      #
 # This script was validate executing on linux mint version="20.2"                      #
 #                                                                                      #
