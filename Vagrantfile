@@ -1,5 +1,5 @@
 ########################################################################################
-# Data de criação: 22 de Novembro de 2021		                                           #
+# Data de criação: 22 de Novembro de 2021		                                            #
 #                                                                                      #
 # Autoria: Márcio Tadeu                                                                #
 # Contato: marcio.ts6@terra.com.br                                                     #
@@ -8,15 +8,15 @@
 # Version: 1.1                                                                         #
 # Data: 22/12/2021                                                                     #
 #                                                                                      #
-# Descrição: This script is a usefull example for provisioning lab environments with	 #
-# virtualbox                                                                  			 	 #
+# Descrição: This script is a usefull example for provisioning lab environments with	  #
+# virtualbox                                                                  			 	    #
 # Projeto: Environment                                                                 #
 #                                                                                      #
 # Repositório de publicação: https://github.com/marcio-tadeu/usefullscripts            #
 #                                                                                      #
-# Uso: Vagrant up              			                                       			       #
-# Parâmetros: n/a                                          			               			   #
-# Legenda parâmetros: n/a                                                   		       #
+# Uso: Vagrant up              			                                       			           #
+# Parâmetros: n/a                                          			               			       #
+# Legenda parâmetros: n/a                                                   		         #
 #                                                                                      #
 # This script was validate executing on linux mint version="20.2"                      #
 #                                                                                      #
