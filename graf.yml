@@ -1,0 +1,35 @@
+---
+- hosts: host
+  user: user
+  become: yes
+# the way to use priviledge
+# become_method: sudo
+  tasks:
+   - name: install grafana rpm key
+     rpm_key:
+      key: https://packages.grafana.com/gpg.key
+      state: present
+#    become: true
+
+   - name: install grafana  rpm repository
+     yum_repository:
+       name: grafana
+       description: grafana  packages
+       baseurl: https://packages.grafana.com/oss/rpm
+       gpgcheck: true
+       gpgkey: https://packages.grafana.com/gpg.key
+#    become: true
+   - name: install grafana
+     yum:
+       name: grafana
+       state: present
+#    become: true
+   - name: grafana is installed
+     yum:
+      name=grafana
+      state=installed
+   - name: grafana is running and enabled
+     service:
+      name=grafana-server
+      state=started
+      enabled=yes
